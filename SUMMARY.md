@@ -4,11 +4,14 @@
 * [Page 3](page-3.md)
 * [Page](page.md)
 
-## Group 1
+## Installation von AgOpen
 
-* [Page 1](group-1/page-1.md)
-* [Page 2](group-1/page-2.md)
+* [Herunterladen](installation-von-agopen/herunterladen.md)
+* [Entpacken](installation-von-agopen/entpacken.md)
+* [Installieren](installation-von-agopen/installieren.md)
 
-***
+## Erster Start und Einrichten
 
-* [neue seite4](neue-seite4.md)
+* [Agio](erster-start-und-einrichten/agio/README.md)
+  * [Ntrip](erster-start-und-einrichten/agio/ntrip.md)
+* [Ntrip](erster-start-und-einrichten/ntrip.md)
